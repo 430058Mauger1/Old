@@ -35,11 +35,9 @@ People who have completed training courses or qualifications related to web deve
 
 ### Colour Scheme
 
-![ColourSchemeImage](ColourScheme.PNG)
-
 [Paletton](https://paletton.com/#uid=13q0u0kh5hca9roeDmlmgeJriag)
 
-![Alt text](assets/img/CScheme.PNG)
+![ColourSchemeImage](assets/img/CScheme.PNG)
 
 + #2A4A56
 + #5F7D89
