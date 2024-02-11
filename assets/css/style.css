@@ -1,0 +1,39 @@
+/*@media (min-width: 1200px) {
+    p, li {
+      font-size: 1vw;
+    }
+}*/
+@media (Max-width: 1200px) {
+
+    p,
+    li {
+        font-size: 14px;
+    }
+}
+
+@media (Min-width: 1200px) {
+
+    p,
+    li {
+        font-size: 17px;
+    }
+}
+
+.A {
+    background-color: #5f7d89;
+}
+
+.B {
+    background-color: #3F6270;
+}
+
+p,
+li,
+h1,
+h2 {
+    color: #ffffff;
+}
+
+.N {
+    background-color: #092833;
+}
