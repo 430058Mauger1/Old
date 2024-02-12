@@ -20,7 +20,7 @@
 + A website that is easy to use and understand
 + A website that is easy to navigate
 + A website that is responsive
-+ A website that loads within a couple seconds 
++ A website that loads within a couple seconds
 
 ### Developer requirements
 
@@ -59,39 +59,49 @@ I will be using Arial, Helvetica, sans-serif in that order of priority. I will b
 
 ### Company Profile Design
 
-![Storyboard for Company Profile](<assets/img/Frame 1.png>)
+![Storyboard for Company Profile](<assets/img/CompProf.png>)
 
-#### A
+#### A Bootstrap Navbar
 
-+ Bootstrap navigation bar
 + #092833
 + Width 100% Height 56 pixels
++ White text, weight 700
 
-#### B
+#### B Bootstrap grid column
 
++ Size: At and above the bootstrap breakpoint xl it is 8 of 12 columns in width, when it goes below xl it is 12 columns in width.
++ #5F7D89
++ white text, heading 1 use default weights and sizes.
+
+#### C Bootstrap grid column
+
++ Size: At and above the bootstrap breakpoint xl it is 4 of 12 columns in width, when it goes below xl it is 12 columns in width.
 + #3F6270
++ white text, heading 1 use default weights and sizes.
 
-#### C
+#### D Text
 
-#### D
++ white text, default heading weights and sizes. Paragraphs and list items text changes size depending on screen size, if the screen is 1200px of below the text is 14px, if it is above that it is 17px.
 
-#### E
+#### E Text
 
-All text will use the Arial font and should it not be available the Helvetica, or sans-serif fonts.
++ white text, default heading weights and sizes. Paragraphs and list items text changes size depending on screen size, if the screen is 1200px of below the text is 14px, if it is above that it is 17px.
 
-I decided to go with design two for my website because for the first design I would have had to create a separate page for the staff according to client requirements.
+All text will be in the Arial font and should it not be available the Helvetica, or sans-serif fonts.
+
+I decided to go with design two for my website because for the first design I would have had to create a separate page for the staff according to client requirements. I also like this design because the added navigation capabilities like the search bar, which would make the site easier to navigate.
 
 ### Selected Company Profile Mobile
 
-![Alt text](<assets/img/Frame 1 (1).png>)
+![Alt text](assets/img/ProfPhone.png)
 
 ### Join us/Job Spec Page First Design
 
-![Alt text](assets/img/1121.png)
+![Alt text](assets/img/JBSpec.png)
 
 ### Join us/Job Spec Page Mobile Design
 
-![Alt text](assets/img/JobMobile.png)
+![Alt text](assets/img/PhoneJob.png)
 
 ### Application Form
 
@@ -119,5 +129,3 @@ To test my website I will make sure all my links, buttons and interactive featur
 
 https://colorlib.com/wp/website-color-statistics/ - colour statistics
 https://marketsplash.com/color-psychology-statistics/#link4 - colour statistics
-
-[link](/src/index.html)
