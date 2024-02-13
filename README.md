@@ -99,6 +99,12 @@ I decided to go with design two for my website because for the first design I wo
 
 ![Alt text](assets/img/JBSpec.png)
 
+### Join us/Job Spec Page Alternative Design
+
+![Alt text](assets/img/Carousel2.png)
+
+In the alternative design I changed the job specification section to a carousel because otherwise there would need to be multiple different pages if there were more then one job available, this helps the code be more maintainable by reducing the amount of code.
+
 ### Join us/Job Spec Page Mobile Design
 
 ![Alt text](assets/img/PhoneJob.png)
