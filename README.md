@@ -55,7 +55,7 @@ I will be using Arial, Helvetica, sans-serif in that order of priority. I will b
 
 ### Company Profile alternative Design
 
-![Alt text](assets/img/CompanyProfileOld.PNG)
+![Old Company Profile](assets/img/CompanyProfileOld.png)
 
 ### Company Profile Design
 
