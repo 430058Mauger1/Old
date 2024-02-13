@@ -63,21 +63,26 @@ I will be using Arial, Helvetica, sans-serif in that order of priority. I will b
 
 #### A Bootstrap Navbar
 
++ Will have the companies name, an about us link and a search bar and button.
 + #092833
 + Width 100% Height 56 pixels
 + White text, weight 700
++ Bootstraps navbar automatically adjusts its size and layout for smaller screens.
 
 #### B Bootstrap grid column
 
 + Size: At and above the bootstrap breakpoint xl it is 8 of 12 columns in width, when it goes below xl it is 12 columns in width.
 + #5F7D89
 + white text, heading 1 use default weights and sizes.
++ Height 100%
++ Sticks to the top
 
 #### C Bootstrap grid column
 
 + Size: At and above the bootstrap breakpoint xl it is 4 of 12 columns in width, when it goes below xl it is 12 columns in width.
 + #3F6270
 + white text, heading 1 use default weights and sizes.
++ Height 100%
 
 #### D Text
 
