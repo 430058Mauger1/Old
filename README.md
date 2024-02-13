@@ -63,7 +63,7 @@ I will be using Arial, Helvetica, sans-serif in that order of priority. I will b
 
 #### A Bootstrap Navbar
 
-+ Will have the companies name, an about us link and a search bar and button.
++ Will have the companies name, links to other pages and a search bar and button.
 + #092833
 + Width 100% Height 56 pixels
 + White text, weight 700
@@ -115,6 +115,37 @@ In the alternative design I changed the job specification section to a carousel 
 ![Alt text](assets/img/PhoneJob.png)
 
 ### Application Form
+
+![Alt text](assets/img/FormSTB.png)
+
+#### A
+
++ Will have the companies name, links to other pages and a search bar and button.
++ #092833
++ Width 100% Height 56 pixels
++ White text, weight 700
++ Bootstraps navbar automatically adjusts its size and layout for smaller screens.
+
+#### B
+
++ Width 100%, height 100%
++ #5F7D89
+
+#### D
+
++ border 3px solid #ffffff
++ Heading size 28px heading weight 600
++ Paragraph 
+
+#### E
+
+#### F
+
+#### G
+
+#### H
+
+#### I
 
 ## Testing
 
