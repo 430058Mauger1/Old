@@ -59,7 +59,7 @@ I will be using Arial, Helvetica, sans-serif in that order of priority. I will b
 
 ### Company Profile Design
 
-![Storyboard for Company Profile](<assets/img/CompProf.png>)
+![Storyboard for Company Profile](assets/img/CompProf.png)
 
 #### A Bootstrap Navbar
 
