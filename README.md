@@ -92,7 +92,7 @@ I will be using Arial, Helvetica, sans-serif in that order of priority. I will b
 
 + white text, default heading weights and sizes. Paragraphs and list items text changes size depending on screen size, if the screen is 1200px of below the text is 14px, if it is above that it is 17px.
 
-All text will be in the Arial font and should it not be available the Helvetica, or sans-serif fonts.
+All text will be in the Arial font and should it not be available then Helvetica, or sans-serif fonts.
 
 I decided to go with design two for my website because for the first design I would have had to create a separate page for the staff according to client requirements. I also like this design because the added navigation capabilities like the search bar, which would make the site easier to navigate.
 
@@ -109,6 +109,18 @@ I decided to go with design two for my website because for the first design I wo
 ![Alt text](assets/img/Carousel2.png)
 
 In the alternative design I changed the job specification section to a carousel because otherwise there would need to be multiple different pages if there were more then one job available, this helps the code be more maintainable by reducing the amount of code.
+
+#### A
+
+
+
+#### B
+
+#### C
+
+#### D
+
+#### E
 
 ### Join us/Job Spec Page Mobile Design
 
