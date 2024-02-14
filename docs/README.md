@@ -37,7 +37,7 @@ People who have completed training courses or qualifications related to web deve
 
 [Paletton](https://paletton.com/#uid=13q0u0kh5hca9roeDmlmgeJriag)
 
-![ColourSchemeImage](assets/img/CScheme.PNG)
+![ColourSchemeImage](../assets/img/CScheme.PNG)
 
 + #2A4A56
 + #5F7D89
@@ -55,27 +55,27 @@ I will be using Arial, Helvetica, sans-serif in that order of priority. I will b
 
 ### Company Profile alternative Design
 
-![Old Company Profile](assets/img/CompanyProfileOld.png)
+![Old Company Profile](../assets/img/CompanyProfileOld.png)
 
 ### Company Profile Design
 
-![Storyboard for Company Profile](assets/img/CompProf.png)
+![Storyboard for Company Profile](../assets/img/CompProf.png)
 
 #### A Bootstrap Navbar
 
-+ Will have the companies name, links to other pages and a search bar and button.
 + #092833
 + Width 100% Height 56 pixels
 + White text, weight 700
++ Will have the companies name, links to other pages and a search bar and button.
 + Bootstraps navbar automatically adjusts its size and layout for smaller screens.
 
 #### B Bootstrap grid column
 
-+ Size: At and above the bootstrap breakpoint xl it is 8 of 12 columns in width, when it goes below xl it is 12 columns in width.
 + #5F7D89
-+ white text, heading 1 use default weights and sizes.
-+ Height 100%
-+ Sticks to the top
++ <h1> are #ffffff, and use default weights and sizes.
++ Size: At and above the bootstrap breakpoint xl it is 8 of 12 columns in width, when it goes below xl it is 12 columns in width. Height 100%.
+Paragraphs
+
 
 #### C Bootstrap grid column
 
@@ -98,37 +98,41 @@ I decided to go with design two for my website because for the first design I wo
 
 ### Selected Company Profile Mobile
 
-![Alt text](assets/img/ProfPhone.png)
+![Alt text](../assets/img/ProfPhone.png)
 
 ### Join us/Job Spec Page First Design
 
-![Alt text](assets/img/JBSpec.png)
+![Alt text](../assets/img/JBSpec.png)
 
 ### Join us/Job Spec Page Alternative Design
 
-![Alt text](assets/img/Carousel2.png)
+![Alt text](../assets/img/Carousel2.png)
 
 In the alternative design I changed the job specification section to a carousel because otherwise there would need to be multiple different pages if there were more then one job available, this helps the code be more maintainable by reducing the amount of code.
 
-#### A
+#### A Bootstrap Navbar
 
++ #092833
++ Width 100% Height 56 pixels
++ White text, weight 700
++ Will have the companies name, links to other pages and a search bar and button.
++ Bootstraps navbar automatically adjusts its size and layout for smaller screens.
 
+#### B Bootstrap Grid column
 
-#### B
+#### C Bootstrap Grid column
 
-#### C
+#### D Bootstrap Carousel
 
-#### D
-
-#### E
+#### E Embedded YouTube video links
 
 ### Join us/Job Spec Page Mobile Design
 
-![Alt text](assets/img/PhoneJob.png)
+![Alt text](../assets/img/PhoneJob.png)
 
 ### Application Form
 
-![Alt text](assets/img/FormSTB.png)
+![Alt text](../assets/img/FormSTB.png)
 
 #### A
 
@@ -147,7 +151,7 @@ In the alternative design I changed the job specification section to a carousel 
 
 + border 3px solid #ffffff
 + Heading size 28px heading weight 600
-+ Paragraph 
++ Paragraph
 
 #### E
 
@@ -169,11 +173,27 @@ To test my website I will make sure all my links, buttons and interactive featur
 
 ### Usability Testing
 
+To test this I let peers and family to look at the website to provide feedback.
+
+#### Mitchell Aldrich
+
+"The overall layout and design of the website is great and seems very professional and organized. However, one improvement I picked out is to edit the headers of the different positions in the job specifications to make them more noticeable since at first I didn't notice they were there".
+
+#### ugnius Meildazys
+
+"The websites color scheme is nice and easy on the eyes but there is a few problems, first the carousel of the current staff seem to break when you use it for the first time after that it fixes itself. The job specification page works fine but there is a few things that would bug people, first would be the ability to only go forward and not back on the different jobs and one of the three job specifications is a different size and it messes with the size of the page making it jump, second would be the videos there is three of the same videos maybe have 3 different ones instead of all of them the same. The apply page has no place to upload a cv or any file and the gender select is hard to see when you hover your mouse over it."
+
 ### Form Validation
 
 ## Optimisations
 
 ### Before
+
+![Alt text](../assets/img/AboutUsBefore.PNG)
+
+![Alt text](../assets/img/JobSpecBefore.PNG)
+
+![Alt text](../assets/img/ApplyBefore.PNG)
 
 ### After
 
@@ -181,5 +201,5 @@ To test my website I will make sure all my links, buttons and interactive featur
 
 ## References
 
-https://colorlib.com/wp/website-color-statistics/ - colour statistics
-https://marketsplash.com/color-psychology-statistics/#link4 - colour statistics
+<https://colorlib.com/wp/website-color-statistics/> - colour statistics
+<https://marketsplash.com/color-psychology-statistics/#link4> - colour statistics
